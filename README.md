@@ -10,6 +10,7 @@ Table of Contents
     * [new](#new)
     * [add_backend](#add-backend)
     * [remove_backend](#remove-backend)
+    * [get_backend](#get-backend)
     * [lookup](#lookup)
 * [Installation](#installation)
 * [Dependency](#dependency)
@@ -72,6 +73,14 @@ remove_backend
 `syntax: mag:remove_backend(backend)`
 
 Remove a backend from mag backends
+
+[Back to TOC](#table-of-contents)
+
+get_backend
+-----------
+`syntax: backend = mag:get_backend('abc123&^%')`
+
+Fetch the backend for specified content
 
 [Back to TOC](#table-of-contents)
 
