@@ -120,7 +120,7 @@ Copyright and License
 
 This module is licensed under the BSD 2-Clause License .
 
-Copyright (C) 2016, by kwanhur <huang_hua2012@163.com>, VIPS Inc.
+Copyright (C) 2018, by kwanhur <huang_hua2012@163.com>, VIPS Inc.
 
 All rights reserved.
 
